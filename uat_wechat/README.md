@@ -63,20 +63,27 @@ Gratitude to ItChat team, for Python-WeChat communication API
 * 不良内容识别 (Explicit Content Detection)
 
 
-### 第三课：自然语言处理
-### Lesson 3: Natural Language Processing
+### 第三课：自然语言处理：语音合成和识别
+### Lesson 3: Natural Language Processing 1
 * 消息文字转成语音 (Speech synthesis: text to voice)
 * 语音转换成消息文字 (Speech recognition: voice to text)
 * 消息文字的多语言互译 (Text based language translation)
 
-### 第四课：视频识别和处理
-### Lesson 4: Video Recognition & Processing
+### 第四课：自然语言处理：语义和情感分析
+### Lesson 4: Natural Language Processing 2
+* 文本中名称实体的识别 (Name-Entity detection)
+* 整篇文本的情感分析 (Sentiment analysis, Document level)
+* 名称实体的情感分析 (Sentiment analysis, Name-Entity level)
+* 语句的语法分析 (Syntax / Grammer analysis)
+
+### 第五课：视频识别和处理
+### Lesson 5: Video Recognition & Processing
 * 识别视频消息中的物体名字 (Recognize objects in video)
 * 识别视频的场景 (Detect scenery in video)
 * 直接搜索视频内容 (Search content in video)
 
-### 第五课：互动智能机器人应用
-### Lesson 5: Intelligent & Interactive Chat-bot Applications
+### 第六课：互动智能机器人应用
+### Lesson 6 Intelligent & Interactive Chat-bot Applications
 * 多语言翻译器 (Language translator)
 * 图文多媒体的订阅和点播 (Multi-media broadcast & on-demand subscription)
 * 文章的概括和缩写 (Automatic article summary)
@@ -87,8 +94,21 @@ Gratitude to ItChat team, for Python-WeChat communication API
 
 ## 2. 开发环境安装
 
-### 选择1：使用云平台
-### Option 1: Use Cloud Platform (Difficulty level: Easy, like being a boss)
+### 选择1：下载使用酷豆虚拟机
+### Option 1: Use a Virtual Machine to run in your own computer (Difficulty level: Easy, like being a boss)
+* Download a virtual machine (VM about 1.5 GB), which contains this workshop notebook. [Download Link to be announced]
+* Start the VM using Virtualbox. Virtualbox free download: https://www.virtualbox.org/wiki/Downloads
+* Open a web browser, go to url: 
+
+> To use python 2: http://127.0.0.1:8080/tree
+
+
+> To use python 3: http://127.0.0.1:8082/tree
+
+* Update/pull latest workshop python notebooks from Github: https://github.com/telescopeuser/workshop_blog.git
+
+### 选择2：使用云平台
+### Option 2: Use Cloud Platform (Difficulty level: Medium, as bribing your colleague)
 Create an account in Google Cloud Platform (GCP)
 * Complete GCP Registration: https://cloud.google.com/free/ <--- In case you are lost here, quick guide: https://cloud.google.com/getting-started/
 * Go to GCP Console: https://console.cloud.google.com/home
@@ -115,14 +135,6 @@ Start Datalab (Jupyter python notebook) using Cloud Shell
 
   > %load workshop_blog/setup_cloud.py
         
-
-### 选择2：下载使用虚拟机
-### Option 2: Use a Virtual Machine to run in your own computer (Difficulty level: Medium, as bribing your colleague)
-* Download a virtual machine (VM about 1.5 GB), which contains this workshop notebook. [Download Link to be announced]
-* Install Virtualbox tool to use above virtual machine, if you don't have this software. https://www.virtualbox.org/wiki/Downloads
-* Start to run the VM using Virtualbox
-* Open a web browser, go to url: https://127.0.0.1/tree
-* Update/pull latest workshop python notebooks from Github: https://github.com/telescopeuser/workshop_blog.git
 
 ### 选择3：本地电脑安装
 ### Option 3: Use your own computer (Difficulty level: High, as what you normally do)
