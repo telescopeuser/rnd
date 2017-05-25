@@ -1,0 +1,9 @@
+https://www.microsoft.com/en-us/translator/translatorapi.aspx
+
+Scalable from a few words to billions of words per day
+Free for small volumes up to 2M tier, discounts for larger volumes and enterprise customers
+
+
+Python code example to call API:
+https://github.com/MicrosoftTranslator/PythonConsole/blob/master/MTPythonSampleCode/MTPythonSampleCode.py
+

@@ -1,0 +1,14 @@
+title,content
+<< The Title of Article >>,"1 INTRODUCTION
+It was built based on UAlbertaBot 2013 architecture, which employs a Multi-Agent based design system
+NUS-Bot originated a high-level strategic reasoning mechanism, consisting Intelligence Preparation of the Battlefield (IPB) and Layered Influence Map (LIM)
+It is a systematic, continuous process of analyzing the threat and environment in a specific geographic area
+Applying the IPB process helps the commander selectively apply and maximize his combat power at critical points in time and space on the battlefield via:
+LIMs update frequency can vary in order to produce different granularity for different scale of reasoning requirements, to satisfy real-time computation expenditure
+
+The dendrogram of the hierarchical clustering shows 2 distant clusters, with the larger of the 2 breaking into another 2 clusters
+The clustering algorithm was run iteratively from 2 to 10 initial centroids and the resulting Sum (withinSS) plot showed a massive drop in the different from the previous within cluster sum of squared error at the iteration using 4 clusters
+The first 2 principal components preserved 80% of the information in the data.
+
+A possible alternative to the above methodology would be to apply outlier detection techniques such as local outlier factor (LOF) or local density cluster-based outlier factor (LDCOF) to identify and remove such outliers first before commencing hierarchical and the subsequent k-means clustering
+These games run very long, have low to medium game scores per second, have relatively low winner and loser scores, and low winner/loser scores (0.4 to around 5)? It suggests that the game"
