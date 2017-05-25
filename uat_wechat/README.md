@@ -72,7 +72,7 @@ Acknowledgement
 
 
 ### 第三课：自然语言处理：语音合成和识别
-### Lesson 3: Natural Language Processing
+### Lesson 3: Natural Language Processing 1
 * 消息文字转成语音 (Speech synthesis: text to voice)
 * 语音转换成消息文字 (Speech recognition: voice to text)
 * 消息文字的多语言互译 (Text based language translation)
