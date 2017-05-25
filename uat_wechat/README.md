@@ -71,17 +71,11 @@ Acknowledgement
 * 不良内容识别 (Explicit Content Detection)
 
 
-### 第三课：自然语言处理
+### 第三课：自然语言处理：语音合成和识别
 ### Lesson 3: Natural Language Processing
 * 消息文字转成语音 (Speech synthesis: text to voice)
 * 语音转换成消息文字 (Speech recognition: voice to text)
 * 消息文字的多语言互译 (Text based language translation)
-
-### 第四课：视频识别和处理
-### Lesson 4: Video Recognition & Processing
-* 识别视频消息中的物体名字 (Recognize objects in video)
-* 识别视频的场景 (Detect scenery in video)
-* 直接搜索视频内容 (Search content in video)
 
 ### 第四课：自然语言处理：语义和情感分析
 ### Lesson 4: Natural Language Processing 2
