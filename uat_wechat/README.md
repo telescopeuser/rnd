@@ -3,8 +3,18 @@ Firstly, please open this README document using your own web browser: https://gi
 
 
 ### 配套视频教程的链接:
-* YouTube https://youtu.be/W-ZsWqcl1_c
-* 优酷 [To be announced]
+
+<img align="right" src='wechat_tool/reference/video_tn3.jpg' width=40%>
+
+YouTube
+* [第一课] https://youtu.be/W-ZsWqcl1_c
+* [第二课] https://youtu.be/FPgo-hI7OiE
+* [第三课] https://youtu.be/yZV-XCSmWQY
+* [第四课] [To be announced]
+* [第五课] [To be announced]
+
+
+优酷 [To be announced]
 
 
 # [零基础系列教程] 如何开发微信聊天机器人并集成深度人工智能应用
@@ -26,11 +36,9 @@ April 2017  ====== Scan the QR code to add me in WeChat ====>>
 
 <img src='http://www.wechat-help.com/wp-content/uploads/2016/01/Main_WeChat-3.png' width=100% style="float: left;">
 
-### 感谢谷歌提供免费和强大的云平台和机器智能引擎：https://cloud.google.com/products/machine-learning/
-Gratitude to Google, for providing free tier cloud platform with fancy machine learning capabilities
-
-### 感谢ItChat工作组提供的微信程序接口：https://github.com/littlecodersh/ItChat
-Gratitude to ItChat team, for Python-WeChat communication API
+Acknowledgement
+* 谷歌提供的云平台和机器智能引擎：https://cloud.google.com/products/machine-learning/
+* ItChat工作组提供的微信程序接口：https://github.com/littlecodersh/ItChat
 
 ---
 
@@ -63,11 +71,17 @@ Gratitude to ItChat team, for Python-WeChat communication API
 * 不良内容识别 (Explicit Content Detection)
 
 
-### 第三课：自然语言处理：语音合成和识别
-### Lesson 3: Natural Language Processing 1
+### 第三课：自然语言处理
+### Lesson 3: Natural Language Processing
 * 消息文字转成语音 (Speech synthesis: text to voice)
 * 语音转换成消息文字 (Speech recognition: voice to text)
 * 消息文字的多语言互译 (Text based language translation)
+
+### 第四课：视频识别和处理
+### Lesson 4: Video Recognition & Processing
+* 识别视频消息中的物体名字 (Recognize objects in video)
+* 识别视频的场景 (Detect scenery in video)
+* 直接搜索视频内容 (Search content in video)
 
 ### 第四课：自然语言处理：语义和情感分析
 ### Lesson 4: Natural Language Processing 2
@@ -96,7 +110,7 @@ Gratitude to ItChat team, for Python-WeChat communication API
 
 ### 选择1：下载使用酷豆虚拟机
 ### Option 1: Use a Virtual Machine to run in your own computer (Difficulty level: Easy, like being a boss)
-* Download a virtual machine (VM about 1.5 GB), which contains this workshop notebook. [Download Link to be announced]
+* Download a pre-configurated virtual machine, which contains all environment setup and workshop notebooks. [Download Link to be announced]
 * Start the VM using Virtualbox. Virtualbox free download: https://www.virtualbox.org/wiki/Downloads
 * Open a web browser, go to url: 
 
