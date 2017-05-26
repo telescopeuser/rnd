@@ -12,6 +12,7 @@ YouTube
 * [第三课] https://youtu.be/yZV-XCSmWQY
 * [第四课] [To be announced]
 * [第五课] [To be announced]
+* [第六课] [To be announced]
 
 
 优酷 [To be announced]
@@ -79,9 +80,9 @@ Acknowledgement
 
 ### 第四课：自然语言处理：语义和情感分析
 ### Lesson 4: Natural Language Processing 2
-* 文本中名称实体的识别 (Name-Entity detection)
-* 整篇文本的情感分析 (Sentiment analysis, Document level)
-* 名称实体的情感分析 (Sentiment analysis, Name-Entity level)
+* 消息文字中名称实体的识别 (Name-Entity detection)
+* 消息文字中语句的情感分析 (Sentiment analysis, Sentence level)
+* 整篇消息文字的情感分析 (Sentiment analysis, Document level)
 * 语句的语法分析 (Syntax / Grammer analysis)
 
 ### 第五课：视频识别和处理
